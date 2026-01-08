@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-game-bg text-game-text antialiased selection:bg-game-primary selection:text-white font-sans;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-game-card/60 backdrop-blur-xl border border-white/10 shadow-xl;
+  }
+
+  .glass-hover {
+    @apply hover:bg-game-card/80 transition-all duration-300;
+  }
+
+  .text-glow {
+    text-shadow: 0 0 20px currentColor;
+  }
+}
+
+/* Custom Scrollbar */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

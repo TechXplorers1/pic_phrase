@@ -1,0 +1,741 @@
+[
+    {
+        "id": "lvl_001",
+        "type": "Classic",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/cat%20pet?width=600&height=400&nologo=true",
+                "alt": "cat on bed"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/bed?width=600&height=400&nologo=true",
+                "alt": "bed"
+            }
+        ],
+        "answer": "The cat is sleeping.",
+        "variants": [
+            "A cat is sleeping",
+            "Cat sleeping"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "kids",
+            "easy"
+        ],
+        "hintTexts": [
+            "Look at where the cat is resting."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_002",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/sun?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/sunglasses?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/dog?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "The dog is wearing sunglasses.",
+        "variants": [
+            "Dog wearing sunglasses",
+            "The dog has sunglasses on"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "easy"
+        ],
+        "hintTexts": [
+            "Think about what the dog is wearing."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_003",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/clock%20late?width=600&height=400&nologo=true",
+                "alt": "clock showing late time"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/person%20running?width=600&height=400&nologo=true",
+                "alt": "person running"
+            }
+        ],
+        "answer": "I am running late.",
+        "variants": [
+            "I'm running late",
+            "Running late"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "phrases"
+        ],
+        "hintTexts": [
+            "It’s about time and hurrying."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_004",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/broken%20bridge?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/man%20walking?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Cross the bridge when you come to it.",
+        "variants": [
+            "Cross the bridge when you come to it",
+            "Cross the bridge when you get to it"
+        ],
+        "difficulty": 3,
+        "tags": [
+            "idiom"
+        ],
+        "hintTexts": [
+            "It's an idiom about future problems."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_005",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/mountain%20peak?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/flag?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Reach for the top.",
+        "variants": [
+            "Reach the top",
+            "Aim for the top"
+        ],
+        "difficulty": 3,
+        "tags": [
+            "motivation"
+        ],
+        "hintTexts": [
+            "Think ambition and goals."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_006",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/keys?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/car?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/locked%20door?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "I locked the car keys inside.",
+        "variants": [
+            "Locked the car keys inside",
+            "Car keys locked inside"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "everyday"
+        ],
+        "hintTexts": [
+            "It’s a common mistake with cars."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_007",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/red%20pill?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/blue%20pill?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/man%20choice?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Take the red pill.",
+        "variants": [
+            "You take the red pill"
+        ],
+        "difficulty": 4,
+        "tags": [
+            "movie"
+        ],
+        "hintTexts": [
+            "Famous movie metaphor."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_008",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/handshake?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/money?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/agreement?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "A deal is a deal.",
+        "variants": [
+            "Deal is a deal"
+        ],
+        "difficulty": 3,
+        "tags": [
+            "phrase"
+        ],
+        "hintTexts": [
+            "About promises and agreements."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_009",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/egg?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/chicken?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Which came first, the chicken or the egg?",
+        "variants": [
+            "Which came first the chicken or the egg",
+            "Chicken or egg which came first"
+        ],
+        "difficulty": 4,
+        "tags": [
+            "riddle"
+        ],
+        "hintTexts": [
+            "A classic paradox."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_010",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/lightbulb%20idea?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/brain?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "That was a brilliant idea.",
+        "variants": [
+            "That is a brilliant idea",
+            "Brilliant idea"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "praise"
+        ],
+        "hintTexts": [
+            "Synonym: smart or clever."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_011",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/book?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/coffee?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "I like reading with coffee.",
+        "variants": [
+            "I like to read with coffee",
+            "Reading with coffee"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "lifestyle"
+        ],
+        "hintTexts": [
+            "Cozy activity."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_012",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/rain?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/umbrella?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/puddle?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Don't forget your umbrella when it rains.",
+        "variants": [
+            "Take an umbrella when it rains",
+            "Don't forget umbrella"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "advice"
+        ],
+        "hintTexts": [
+            "Weather + protection."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_013",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/rocket%20launch?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/countdown?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Lift off in three, two, one.",
+        "variants": [
+            "Lift off in three two one",
+            "Three two one lift off"
+        ],
+        "difficulty": 3,
+        "tags": [
+            "space"
+        ],
+        "hintTexts": [
+            "Countdown to launch."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_014",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/puzzle?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/thinking?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Solve the puzzle with your mind.",
+        "variants": [
+            "Solve the puzzle",
+            "Use your mind to solve the puzzle"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "brain"
+        ],
+        "hintTexts": [
+            "Cerebral task."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_015",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/money%20bank?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/piggybank?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Save money for a rainy day.",
+        "variants": [
+            "Save money",
+            "Money for a rainy day"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "finance"
+        ],
+        "hintTexts": [
+            "It’s about saving."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_016",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/apple%20teacher?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/classroom?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Education is the key to success.",
+        "variants": [
+            "Education is key to success",
+            "Education is the key"
+        ],
+        "difficulty": 3,
+        "tags": [
+            "proverb"
+        ],
+        "hintTexts": [
+            "Common proverb about learning."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_017",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/map?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/compass?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Find your direction.",
+        "variants": [
+            "Find your way",
+            "Discover your direction"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "motivation"
+        ],
+        "hintTexts": [
+            "Navigation metaphor."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_018",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/phone%20notification?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/message?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "I got a message on my phone.",
+        "variants": [
+            "I received a message on my phone",
+            "Got a phone message"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "everyday"
+        ],
+        "hintTexts": [
+            "Modern communication."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_019",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/train%20station?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/ticket?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Catch the next train.",
+        "variants": [
+            "Catch the next train please",
+            "Take the next train"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "travel"
+        ],
+        "hintTexts": [
+            "Advice when you miss one."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_020",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/chef%20cooking?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/pan%20stir?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "The chef is cooking dinner.",
+        "variants": [
+            "Chef is cooking dinner",
+            "Cooking dinner"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "food"
+        ],
+        "hintTexts": [
+            "Look at the kitchen action."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_021",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/computer%20code?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/coffee%20desk?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "I am coding with a cup of coffee.",
+        "variants": [
+            "Coding with coffee",
+            "I code with coffee"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "tech"
+        ],
+        "hintTexts": [
+            "Developer stereotype."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_022",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/football%20goal?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/cheer?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "He scored the winning goal.",
+        "variants": [
+            "Scored the winning goal",
+            "He scored the goal"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "sports"
+        ],
+        "hintTexts": [
+            "Look at the celebration."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_023",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/alarm%20clock?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/bed%20sleep?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Wake up, it's morning.",
+        "variants": [
+            "Wake up it's morning",
+            "Time to wake up"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "daily"
+        ],
+        "hintTexts": [
+            "Morning alarm scenario."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_024",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/doctor%20hospital?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/stethoscope?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "The doctor will see you now.",
+        "variants": [
+            "Doctor will see you now",
+            "You will see the doctor now"
+        ],
+        "difficulty": 3,
+        "tags": [
+            "health"
+        ],
+        "hintTexts": [
+            "Typical clinic phrase."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_025",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/garden%20flowers?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/watering%20can?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Water the plants every day.",
+        "variants": [
+            "Water the plants daily",
+            "Water plants every day"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "lifestyle"
+        ],
+        "hintTexts": [
+            "Plant care advice."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_026",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/plane%20flying?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/clouds?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "We are flying above the clouds.",
+        "variants": [
+            "Flying above the clouds",
+            "We are above the clouds"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "travel"
+        ],
+        "hintTexts": [
+            "In the air, looking out the window."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_027",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/deadline%20clock?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/stress?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Meet the deadline on time.",
+        "variants": [
+            "Meet the deadline",
+            "Finish on time"
+        ],
+        "difficulty": 3,
+        "tags": [
+            "work"
+        ],
+        "hintTexts": [
+            "Pressure to finish work."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_028",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/trophy%20win?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/team%20celebrate?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Victory for the whole team.",
+        "variants": [
+            "Team victory",
+            "Victory for the team"
+        ],
+        "difficulty": 2,
+        "tags": [
+            "sports"
+        ],
+        "hintTexts": [
+            "Celebration after winning."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_029",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/fire%20alarm?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/evacuate?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "Sound the fire alarm and evacuate.",
+        "variants": [
+            "Sound the fire alarm",
+            "Evacuate the building"
+        ],
+        "difficulty": 4,
+        "tags": [
+            "safety"
+        ],
+        "hintTexts": [
+            "Emergency instructions."
+        ],
+        "exactMatch": false
+    },
+    {
+        "id": "lvl_030",
+        "images": [
+            {
+                "url": "https://image.pollinations.ai/prompt/moon%20night?width=600&height=400&nologo=true"
+            },
+            {
+                "url": "https://image.pollinations.ai/prompt/stars?width=600&height=400&nologo=true"
+            }
+        ],
+        "answer": "The night sky is full of stars.",
+        "variants": [
+            "Night sky full of stars",
+            "The sky is full of stars"
+        ],
+        "difficulty": 1,
+        "tags": [
+            "nature"
+        ],
+        "hintTexts": [
+            "Look up at night."
+        ],
+        "exactMatch": false
+    }
+]
